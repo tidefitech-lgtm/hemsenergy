@@ -1056,8 +1056,8 @@ footer {
 /* ── WHATSAPP FLOAT BUTTONG ── */
 .whatsapp-float {
     position: fixed;
-    width: 60px;
-    height: 60px;
+    width: 45px;
+    height: 45px;
     bottom: 20px;
     right: 5px;
     background-color: #25D366;
